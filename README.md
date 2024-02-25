@@ -44,7 +44,7 @@ Monta esta arquitectura de carpeta:
 
 ## 3. Edita el archivo Python
 
-```bash
+```python
 #!/usr/bin/env python3 
 
 print("¡Soy nombre y apellidos de 2 curso de DAM!")
